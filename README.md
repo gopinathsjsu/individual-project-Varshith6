@@ -34,3 +34,8 @@ Used this pattern by creating an interface "ResultGenerator" which is implemente
 Class Diagram: 
 ![Alt text](https://github.com/gopinathsjsu/individual-project-Varshith6/blob/main/images/Billing.jpeg "Optional title")
 
+![Alt text](https://github.com/gopinathsjsu/individual-project-Varshith6/blob/main/images/Cl_output.jpeg "Optional title")
+
+![Alt text](https://github.com/gopinathsjsu/individual-project-Varshith6/blob/main/images/Input.jpeg "Optional title")
+
+![Alt text](https://github.com/gopinathsjsu/individual-project-Varshith6/blob/main/images/receipt.jpeg "Optional title")
