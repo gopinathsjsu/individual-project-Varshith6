@@ -1,4 +1,5 @@
 # individual-project-Varshith6
+
 individual-project-Varshith6 created by GitHub Classroom
 
 Name: Sai Varshith Talluri  
@@ -9,5 +10,5 @@ Design and implement a Java application for the following requirements. You may 
 
 Steps to run the application:
 
-1) Open terminal.
-2) Run 
+- Open terminal.
+- Run "mvn compile mvn exec:java -Dexec.mainClass=com.inventory.Billing"
