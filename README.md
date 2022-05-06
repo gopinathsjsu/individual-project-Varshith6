@@ -31,8 +31,10 @@ Factory Pattern:
 Factory Method is a creational design pattern that provides an interface for creating objects in a superclass, but allows subclasses to alter the type of objects that will be created.
 Used this pattern by creating an interface "ResultGenerator" which is implemented by "BillGenerator" and "ErrorGenerator"
 
-Class Diagram: 
+# Class Diagram: 
 ![Alt text](https://github.com/gopinathsjsu/individual-project-Varshith6/blob/main/images/Billing.jpeg "Optional title")
+
+# ScreenShots
 
 ![Alt text](https://github.com/gopinathsjsu/individual-project-Varshith6/blob/main/images/Cl_output.jpeg "Optional title")
 
